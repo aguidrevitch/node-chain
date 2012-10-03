@@ -1,0 +1,22 @@
+{
+  "name": "chain",
+  "description": "async.js replacement that allows error collection",
+  "main": "./index",
+  "author": {
+    "name": "Aleksandr Guidrevitch"
+  },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aguidrevitch/node-chain.git"
+  },
+  "bugs": {
+    "url": "http://github.com/aguidrevitch/node-chain/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/caolan/async/raw/master/LICENSE"
+    }
+  ]
+}
